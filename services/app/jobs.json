@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Chief Accounting",
+    "description": "Sebagai seorang Chief Accountant, beberapa tugas dan tanggung jawabnya adalah sebagai berikut:\n\nMengelola tim akuntansi perusahaan dan memastikan laporan keuangan yang akurat dan tepat waktu\nMenyusun dan mengelola anggaran perusahaan\nMemastikan kepatuhan perusahaan terhadap regulasi akuntansi dan peraturan pemerintah\nMenyiapkan dan menyajikan laporan keuangan untuk manajemen dan pemangku kepentingan\nMenganalisis data keuangan dan memberikan rekomendasi untuk meningkatkan kinerja perusahaan\nMenyusun laporan keuangan tahunan dan memastikan bahwa audit dilakukan dengan benar\nMemimpin proyek-proyek strategis yang berkaitan dengan keuangan perusahaan\nMemastikan keamanan dan kerahasiaan data keuangan perusahaan\nMemperkuat sistem pengendalian intern untuk memastikan keakuratan dan integritas laporan keuangan\nChief Accountant juga memiliki wewenang untuk membuat keputusan yang berkaitan dengan keuangan perusahaan, seperti mengajukan anggaran atau investasi besar-besaran.",
+    "salary": 25000000,
+    "jobType": "Full Time",
+    "companyId": 3,
+    "createdAt": "2023-10-08 09:55:32.059+00",
+    "updatedAt": "2023-10-08 09:55:32.059+00"
+  },
+  {
+    "id": 2,
+    "title": "Staff Engineering",
+    "description": "echnician / engineering staff secara umum bertugas memastikan kelancaran operasi hal-hal yang berhubungan dengan instalasi, mesin, bangunan dan fasilitas bangunan.\n\nAdapun tugas technician / engineering staff yang lebih detail adalah sebagai berikut:\n\nPemeliharaan serta perbaikan seluruh instalasi, mesin, bangunan dan fasilitas-fasilitas gedung lainnya.\nMenangani segala peralatan, mesin, serta instalasi lainnya yang menggunakan tenaga listrik, air, maupun gas.\nMelakukan penghematan energi dalam segala aktivitas.\nMencegah mesin, alat, instalasi, dan bangunan terhadap bahaya kebakaran maupun situasi lain yang membahayakan pengguna bangunan.\nMenyiapkan keperluan listrik, gas, dan air secara teratur serta melaporkannya.\nMenangani pekerjaan yang bersifat umum seperti mengecat.",
+    "salary": 8000000,
+    "jobType": "Full Time",
+    "companyId": 4,
+    "createdAt": "2023-10-08 10:32:45.57+00",
+    "updatedAt": "2023-10-08 10:32:45.57+00"
+  },
+  {
+    "id": 4,
+    "title": "Backend Developer",
+    "description": "We are looking for an analytical, results-driven back-end developer who will work with team members to troubleshoot and improve current back-end applications and processes. The Back-end Developer will use his or her understanding of programming languages and tools to analyze current codes and industry developments, formulate more efficient processes, solve problems, and create a more seamless experience for users. You should have excellent communication, computer, and project management skills.\n\nTo succeed as a backend developer, you should be focused on building a better, more efficient program and creating a better end-user experience. You should be knowledgeable, collaborative, and motivated.\n\nBack-end Developer Responsibilities:\nCompile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.\nCollaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.\nDeveloping ideas for new programs, products, or features by monitoring industry developments and trends.\nRecording data and reporting it to proper parties, such as clients or leadership.\nParticipating in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members.\nTaking lead on projects, as needed.",
+    "salary": 12000000,
+    "jobType": "Full Time",
+    "companyId": 1,
+    "createdAt": "2023-10-08 10:38:38.741+00",
+    "updatedAt": "2023-10-08 10:38:38.741+00"
+  },
+  {
+    "id": 3,
+    "title": "Frontend Developer",
+    "description": "In the junior software developer role, you will help create programs and participate in test runs. You will be expected to have an in-depth knowledge of common programming languages. You will also be part of a paired programming group to complete tasks with senior developers. Success in this role will be demonstrated by delivering critical code to help ensure applications are up-to-date and fully functional.\n\n- Works on minor bug issues\n- Writes reports regarding the state of software under development\n- Conducts development tests\n- Monitors the performance of internal systems\n- Attends daily developer meetings\n- Analyzes user needs and software requirements to inform system design",
+    "salary": 12999999,
+    "jobType": "Full Time",
+    "companyId": 2,
+    "createdAt": "2023-10-08 10:36:12.809+00",
+    "updatedAt": "2023-10-08 10:39:31.517+00"
+  },
+  {
+    "id": 5,
+    "title": "Bartender",
+    "description": "We are looking for an enthusiastic Bartender to provide an excellent guest drinking experience. Good Bartenders will be able to create classic and innovative drinks exceeding customers’ needs and expectations. Compensation includes salary and tips. \n\nResponsibilities :\nPrepare alcohol or non-alcohol beverages for bar and restaurant patrons\nInteract with customers, take orders and serve snacks and drinks\nAssess customers’ needs and preferences and make recommendations\nMix ingredients to prepare cocktails\nPlan and present bar menu\nCheck customers’ identification and confirm it meets legal drinking age\nRestock and replenish bar inventory and supplies\nStay guest focused and nurture an excellent guest experience\nComply with all food and beverage regulations",
+    "salary": 10000000,
+    "jobType": "Full Time",
+    "companyId": 6,
+    "createdAt": "2023-10-08 10:53:42.815+00",
+    "updatedAt": "2023-10-08 10:53:42.815+00"
+  },
+  {
+    "id": 6,
+    "title": "Management Trainee",
+    "description": "Completing all assigned tasks and assisting with day-to-day operations.\nParticipating in meetings, workshops, and other learning opportunities.\nObserving and learning from experienced staff members.\nGaining knowledge of company policies, protocols, and processes.\nTaking detailed notes and liaising with Managers, Supervisors, and other senior staff.\nFulfilling any requirements and meeting goals set out at the start of the traineeship.\nFollowing all company regulations, and health and safety codes.\nPreparing documents and updating records.\nLearning about conflict resolution and sitting in on disciplinary hearings.\nTraveling to different offices and participating in daily operations as required.",
+    "salary": 8000000,
+    "jobType": "Full Time",
+    "companyId": 12,
+    "createdAt": "2023-10-08 13:59:19.782+00",
+    "updatedAt": "2023-10-08 13:59:19.782+00"
+  }
+]

@@ -1,0 +1,23 @@
+services:
+  orchestrator:
+    build: ./orchestrator
+    ports: 
+      - "80:4000"
+    environment:
+      REDIS_PASSWORD: ${REDIS_PASSWORD}
+      USER_URL: "http://service-users:4001/users/"
+      JOB_URL: "http://service-app:4002/jobs/"
+      COMPANY_URL: "http://service-app:4002/companies/"
+  service-app:
+    build: ./services/app
+    ports: 
+      - "4002:4002"
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      NODE_ENV: 'production'
+  service-users:
+    build: ./services/users
+    ports: 
+      - "4001:4001"
+    environment:
+      MONGO_URI: ${MONGO_URI}

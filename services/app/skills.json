@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "jobId": 1,
+    "name": "Finance Management",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 09:55:32.08+00",
+    "updatedAt": "2023-10-08 09:55:32.08+00"
+  },
+  {
+    "id": 2,
+    "jobId": 1,
+    "name": "Accounting Software",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 09:55:32.08+00",
+    "updatedAt": "2023-10-08 09:55:32.08+00"
+  },
+  {
+    "id": 3,
+    "jobId": 1,
+    "name": "Payroll Management",
+    "level": "Intermediate",
+    "createdAt": "2023-10-08 09:55:32.08+00",
+    "updatedAt": "2023-10-08 09:55:32.08+00"
+  },
+  {
+    "id": 4,
+    "jobId": 2,
+    "name": "Plumbing",
+    "level": "intermediate",
+    "createdAt": "2023-10-08 10:32:45.579+00",
+    "updatedAt": "2023-10-08 10:32:45.579+00"
+  },
+  {
+    "id": 5,
+    "jobId": 2,
+    "name": "Electricity",
+    "level": "Advance",
+    "createdAt": "2023-10-08 10:32:45.579+00",
+    "updatedAt": "2023-10-08 10:32:45.579+00"
+  },
+  {
+    "id": 6,
+    "jobId": 2,
+    "name": "Room Maintenance",
+    "level": "Advance",
+    "createdAt": "2023-10-08 10:32:45.579+00",
+    "updatedAt": "2023-10-08 10:32:45.579+00"
+  },
+  {
+    "id": 7,
+    "jobId": 2,
+    "name": "Civil Job",
+    "level": "Intermediate",
+    "createdAt": "2023-10-08 10:32:45.579+00",
+    "updatedAt": "2023-10-08 10:32:45.579+00"
+  },
+  {
+    "id": 8,
+    "jobId": 3,
+    "name": "React",
+    "level": "Intermediate",
+    "createdAt": "2023-10-08 10:36:12.819+00",
+    "updatedAt": "2023-10-08 10:36:12.819+00"
+  },
+  {
+    "id": 9,
+    "jobId": 3,
+    "name": "Styling",
+    "level": "Intermediate",
+    "createdAt": "2023-10-08 10:36:12.819+00",
+    "updatedAt": "2023-10-08 10:36:12.819+00"
+  },
+  {
+    "id": 10,
+    "jobId": 3,
+    "name": "Git Workflow",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 10:36:12.819+00",
+    "updatedAt": "2023-10-08 10:36:12.819+00"
+  },
+  {
+    "id": 11,
+    "jobId": 4,
+    "name": "GoLang",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 10:38:38.747+00",
+    "updatedAt": "2023-10-08 10:38:38.747+00"
+  },
+  {
+    "id": 12,
+    "jobId": 5,
+    "name": "Mixiologist",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 10:53:42.818+00",
+    "updatedAt": "2023-10-08 10:53:42.818+00"
+  },
+  {
+    "id": 13,
+    "jobId": 5,
+    "name": "Flairing",
+    "level": "Intermediate",
+    "createdAt": "2023-10-08 10:53:42.818+00",
+    "updatedAt": "2023-10-08 10:53:42.818+00"
+  },
+  {
+    "id": 14,
+    "jobId": 5,
+    "name": "Bar Inventory",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 10:53:42.818+00",
+    "updatedAt": "2023-10-08 10:53:42.818+00"
+  },
+  {
+    "id": 15,
+    "jobId": 5,
+    "name": "Communication",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 10:53:42.818+00",
+    "updatedAt": "2023-10-08 10:53:42.818+00"
+  },
+  {
+    "id": 16,
+    "jobId": 6,
+    "name": "Administration",
+    "level": "Advanced",
+    "createdAt": "2023-10-08 13:59:19.791+00",
+    "updatedAt": "2023-10-08 13:59:19.791+00"
+  }
+]
